@@ -1,9 +1,9 @@
  Intro-to-Artificial-Intelligence
 ============================
 
-udacity cs 271 Intro to Artificial Intelligence note
+edX ColumbiaX: CSMM.101x Artificial Intelligence (AI) note
 
 ## 目录
 
-1. Welcome to AI
-2. Problem Solving
+1. AI介绍
+2. 智能代理和非启发搜索
